@@ -2,12 +2,12 @@
   padding: 5px;
   width: 200px;
   display: flex;
-  justify-content: space-between;
+
   align-items: center;
   height: 80px;
 }
 .button {
-  display: inline-block;
+  display: flex;
   cursor: pointer;
   padding: 2px;
 }
